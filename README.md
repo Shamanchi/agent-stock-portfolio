@@ -3,7 +3,7 @@
 [![CI](https://github.com/Shamanchi/agent-stock-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/Shamanchi/agent-stock-portfolio/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](./Dockerfile)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![License: Shamanchi](https://img.shields.io/badge/License-Shamanchi-green.svg)](./LICENSE)
 
 > **English TL;DR:** FastAPI stock-portfolio analyst: SMA-crossover trend signals and dividend yields from mock histories plus a rebalance plan toward target weights. Fully offline, no tokens needed.
 
